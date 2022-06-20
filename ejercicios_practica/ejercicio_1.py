@@ -18,7 +18,16 @@ numero_2 = 7
 # ej:
 # operacion = .....
 
+operacion = numero_1 + numero_2
+
+
+
 # Imprimir en pantalla el resultado de la suma
 # print(....)
 
+print(operacion)
+
 # Repita el procedimiento para realizar la resta
+
+operacion = numero_1 - numero_2
+print(operacion)
